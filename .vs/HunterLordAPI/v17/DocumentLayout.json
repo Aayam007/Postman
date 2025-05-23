@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bishow PC\\OneDrive\\Desktop\\New folder (2)\\HunterLordAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F39D2B34-833C-F32D-5A7C-88CAA77CA49E}|HunterLordAPI.csproj|c:\\users\\bishow pc\\onedrive\\desktop\\new folder (2)\\hunterlordapi\\hunterlordapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F39D2B34-833C-F32D-5A7C-88CAA77CA49E}|HunterLordAPI.csproj|solutionrelative:hunterlordapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39D2B34-833C-F32D-5A7C-88CAA77CA49E}|HunterLordAPI.csproj|c:\\users\\bishow pc\\onedrive\\desktop\\new folder (2)\\hunterlordapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39D2B34-833C-F32D-5A7C-88CAA77CA49E}|HunterLordAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HunterLordAPI",
+              "DocumentMoniker": "C:\\Users\\Bishow PC\\OneDrive\\Desktop\\New folder (2)\\HunterLordAPI\\HunterLordAPI.csproj",
+              "RelativeDocumentMoniker": "HunterLordAPI.csproj",
+              "ToolTip": "C:\\Users\\Bishow PC\\OneDrive\\Desktop\\New folder (2)\\HunterLordAPI\\HunterLordAPI.csproj",
+              "RelativeToolTip": "HunterLordAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-23T02:08:05.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bishow PC\\OneDrive\\Desktop\\New folder (2)\\HunterLordAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Bishow PC\\OneDrive\\Desktop\\New folder (2)\\HunterLordAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:02:55.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

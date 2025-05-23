@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HunterLordAPI", "HunterLordAPI.csproj", "{F39D2B34-833C-F32D-5A7C-88CAA77CA49E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F39D2B34-833C-F32D-5A7C-88CAA77CA49E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F39D2B34-833C-F32D-5A7C-88CAA77CA49E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F39D2B34-833C-F32D-5A7C-88CAA77CA49E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F39D2B34-833C-F32D-5A7C-88CAA77CA49E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66118AAB-45D3-44B2-8D82-8575A442A019}
+	EndGlobalSection
+EndGlobal
